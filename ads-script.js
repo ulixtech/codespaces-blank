@@ -1,3 +1,5 @@
+console.log("Ulix Ads Script Started")
+
 //Sticky Ads Container
 let UlixAdsWidget_ = document.getElementById("_ulixAds");
 let UlixAdsCloseBtn_ = document.createElement("span");
